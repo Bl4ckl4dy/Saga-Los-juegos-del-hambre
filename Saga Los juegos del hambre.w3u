@@ -1,0 +1,67 @@
+
+{
+"name": "Los Juegos Del Hambre",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1c1onados.vercel.app/Saga.Los.Juegos.Del.Hambre.w3u",
+"image": "https://es.web.img2.acsta.net/medias/nmedia/18/86/46/05/19945375.jpg",
+"telegram": "Lista_AF1CIONADOS",
+"info": "Lista_AF1CIONADOS",
+"stations":
+	[
+		{
+		"name": "Los Juegos del Hambre",
+		"info": "[Español][2012]",
+		"image": "https://es.web.img2.acsta.net/medias/nmedia/18/86/46/05/19945375.jpg",
+        "url": "https://filemoon.to/d/yyht7yf2u9p5/Los_juegos_del_hambre.mp4",
+       	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"isHost": "true",
+       	"online": "true"
+		},
+		{
+		"name": "Los Juegos del Hambre: En Llamas",
+		"info": "[Español][2013]",
+		"image": "https://www.aceprensa.com/wp-content/uploads/2013/11/101299-0.jpg",
+        "url": "https://filemoon.to/d/q1x64znpxh3r/Los_juegos_del_hambre_En_llamas.mp4",
+       	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"isHost": "true",
+       	"online": "true"
+		},
+		{
+		"name": "Los Juegos del Hambre: Sinsajo Parte 1",
+        "info": "[Español][2014]",
+		"image": "https://es.web.img3.acsta.net/pictures/14/09/12/10/51/011753.jpg",
+        "url": "https://filemoon.to/d/9iijodsp4641/Los_juegos_del_hambre_Sinsajo._Parte_1.mp4",
+       	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"isHost": "true",
+       	"online": "true"
+       	        },
+		{
+		"name": "Los Juegos del Hambre: Sinsajo Parte 2",
+        "info": "[Español][2015]",
+		"image": "https://es.web.img2.acsta.net/pictures/15/10/05/09/45/058912.jpg",
+        "url": "https://filemoon.to/d/e24rgg7n5kwx/Los_juegos_del_hambre_Sinsajo_Parte_2.mp4",
+       	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"isHost": "true",
+       	"online": "true"
+        	},
+                {
+		"name": "Los Juegos del Hambre: Balada de Pájaros Cantores y Serpientes",
+        "info": "[Español][2023]",
+		"image": "https://www.themoviedb.org/t/p/w600_and_h900_face/lQS3Owbte49Mkz5nFach4UgSZDF.jpg",
+        "url": "https://filemoon.to/d/meyk176r6afm/Los_Juegos_del_Hambre_Balada_de_p_jaros_cantores_y_serpientes.mp4",
+       	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"isHost": "true",
+       	"online": "true"
+       	        },
+                {
+		"name": "Los muertos del hambre",
+        "info": "[Español][2013]",
+		"image": "https://www.themoviedb.org/t/p/w600_and_h900_face/wf5Pa9avA1tZAdRDAMfFmZF9yXp.jpg",
+        "url": "https://filemoon.to/d/codjr1y014sx/Los_muertos_del_hambre.mp4",
+       	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"isHost": "true",
+       	"online": "true"
+       	}
+	]
+}
+
